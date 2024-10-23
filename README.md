@@ -1,1 +1,1 @@
-# 1berto-dev.github.io
+`theme: MINIMAL`
