@@ -1,6 +1,6 @@
-<h3 align="center">A passionate game developer from Brazil</h3>
+<h3 align="center">Um brasileiro apaixonado por criar jogos</h3>
 
-- 📫 How to reach me **humberto.santi@hotmail.com**
+- 📫 **1berto.santi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
